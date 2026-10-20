@@ -1,21 +1,39 @@
 <!--
   Yarima Tamang | Computer Science • AI/ML • Software Engineering
-  A custom, evidence-first GitHub profile README.
 -->
 
 <div align="center">
 
 <img src="assets/yarima-banner.svg" alt="Yarima Tamang — Computer Science, AI/ML and Software Engineering" width="100%" />
 
+<br/><br/>
+
+<a href="https://github.com/YarimaTamang?tab=repositories"><img src="https://img.shields.io/badge/VIEW-ALL%20PROJECTS-183845?style=for-the-badge&logo=github&logoColor=63E6D2" alt="View all projects" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/YarimaTamang?tab=stars"><img src="https://img.shields.io/badge/EXPLORE-TECH%20INTERESTS-183845?style=for-the-badge&logo=bookstack&logoColor=63E6D2" alt="Explore technical interests" /></a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<strong>AI & MACHINE LEARNING</strong><br/>
+<sub>Models · Experiments · Evaluation</sub>
+</td>
+<td align="center" width="33%">
+<strong>SOFTWARE ENGINEERING</strong><br/>
+<sub>Systems · APIs · Clean code</sub>
+</td>
+<td align="center" width="33%">
+<strong>FULL-STACK DEVELOPMENT</strong><br/>
+<sub>Interfaces · Data · Products</sub>
+</td>
+</tr>
+</table>
+
 <br/>
 
-<a href="https://github.com/YarimaTamang?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PROJECTS-102A35?style=for-the-badge&logo=github&logoColor=63E6D2" alt="Explore projects" /></a>
-<a href="https://github.com/YarimaTamang?tab=stars"><img src="https://img.shields.io/badge/TECHNICAL-CURIOSITY-102A35?style=for-the-badge&logo=bookstack&logoColor=63E6D2" alt="Technical curiosity" /></a>
-<a href="https://github.com/YarimaTamang"><img src="https://komarev.com/ghpvc/?username=YarimaTamang&style=for-the-badge&color=126E75&label=PROFILE+VIEWS" alt="Profile views" /></a>
-
-### Computer Science Engineer in progress · AI/ML · Deep Learning · Full-Stack Development
-
-*I like understanding how things work, building useful systems, and improving them through experimentation.*
+*Curious by nature. Practical by design. Always building.*
 
 </div>
 
