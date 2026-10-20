@@ -1,30 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-<title id="title">Yarima Tamang — Computer Science, AI and Software</title>
-<desc id="desc">A clean editorial developer banner with a dark blue-green gradient, spacious typography, and an abstract network illustration.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">Yarima Tamang — Computer Science and Software Engineering</title>
+<desc id="desc">An understated charcoal developer banner with editorial typography, a small terminal window, code-inspired linework, and restrained teal accents.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#081723"/><stop offset=".58" stop-color="#0b2934"/><stop offset="1" stop-color="#171a35"/></linearGradient>
-  <linearGradient id="network" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#64ead5" stop-opacity=".82"/><stop offset="1" stop-color="#a78bfa" stop-opacity=".68"/></linearGradient>
-  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#a8c5d2" stroke-opacity=".065" stroke-width="1"/></pattern>
-  <radialGradient id="halo"><stop offset="0" stop-color="#2db7aa" stop-opacity=".2"/><stop offset="1" stop-color="#2db7aa" stop-opacity="0"/></radialGradient>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0b0f14"/>
+    <stop offset=".62" stop-color="#101820"/>
+    <stop offset="1" stop-color="#111a20"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#5eead4"/>
+    <stop offset="1" stop-color="#78a9ff"/>
+  </linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#c4d2df" stroke-opacity=".035" stroke-width="1"/>
+  </pattern>
 </defs>
-<rect width="1200" height="420" rx="24" fill="url(#bg)"/>
-<rect width="1200" height="420" rx="24" fill="url(#grid)"/>
-<ellipse cx="930" cy="205" rx="390" ry="310" fill="url(#halo)"/>
-<rect x="54" y="54" width="5" height="312" rx="2.5" fill="#63e6d2"/>
-<text x="84" y="105" fill="#63e6d2" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3.5">COMPUTER SCIENCE  /  ENGINEERING</text>
-<text x="80" y="174" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="55" font-weight="700" letter-spacing=".3">YARIMA TAMANG</text>
-<text x="84" y="218" fill="#d3e0e8" font-family="Arial, Helvetica, sans-serif" font-size="23">AI / ML  ·  DEEP LEARNING  ·  SOFTWARE</text>
-<path d="M84 252H360" stroke="#63e6d2" stroke-width="2.5" stroke-linecap="round"/>
-<text x="84" y="287" fill="#9db4c3" font-family="Arial, Helvetica, sans-serif" font-size="16">Build with curiosity. Evaluate with evidence.</text>
-<text x="84" y="312" fill="#9db4c3" font-family="Arial, Helvetica, sans-serif" font-size="16">Improve with every iteration.</text>
-<g stroke="url(#network)" stroke-width="1.6" fill="none">
-<path d="M710 112L800 157L900 96L1000 155L1110 105M800 157L770 260L870 312L1000 155L1030 265L1130 320M900 96L870 312M710 112L650 220L770 260M870 312L970 365L1030 265L1130 320M1000 155L1170 205M770 260L700 340"/>
-<path d="M900 96L930 220L1030 265M930 220L1110 105"/>
+<rect width="1200" height="400" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="400" rx="22" fill="url(#grid)"/>
+<rect x="42" y="44" width="4" height="312" rx="2" fill="url(#accent)"/>
+<text x="76" y="91" fill="#75e6d4" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2.8">COMPUTER SCIENCE  /  ENGINEERING</text>
+<text x="72" y="157" fill="#f3f4f6" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.2">Yarima Tamang</text>
+<text x="76" y="199" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="21">AI / ML  ·  Deep Learning  ·  Software Engineering</text>
+<text x="76" y="250" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="18">I build, test, and improve practical solutions.</text>
+<text x="76" y="279" fill="#9aa9b8" font-family="Arial, Helvetica, sans-serif" font-size="16">Curiosity first. Clear thinking. Measurable progress.</text>
+<rect x="76" y="313" width="270" height="2" rx="1" fill="url(#accent)"/>
+<text x="76" y="342" fill="#718096" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.7">LEARN  /  BUILD  /  ITERATE</text>
+<!-- A deliberately simple terminal illustration, not a generic AI/globe motif. -->
+<g transform="translate(690 76)">
+  <rect x="0" y="0" width="440" height="244" rx="12" fill="#0a1016" stroke="#2a3b47" stroke-width="1.5"/>
+  <path d="M0 42H440" stroke="#2a3b47" stroke-width="1.5"/>
+  <circle cx="22" cy="21" r="4" fill="#fb7185"/>
+  <circle cx="38" cy="21" r="4" fill="#fbbf24"/>
+  <circle cx="54" cy="21" r="4" fill="#5eead4"/>
+  <text x="76" y="25" fill="#8ea0af" font-family="Arial, Helvetica, sans-serif" font-size="11">workspace / projects</text>
+  <g font-family="Consolas, Menlo, monospace" font-size="15">
+    <text x="26" y="79" fill="#64748b">01</text><text x="61" y="79" fill="#5eead4">const</text><text x="116" y="79" fill="#e2e8f0"> build = () =&gt; {</text>
+    <text x="26" y="111" fill="#64748b">02</text><text x="61" y="111" fill="#c4b5fd">  explore</text><text x="130" y="111" fill="#e2e8f0">("ideas");</text>
+    <text x="26" y="143" fill="#64748b">03</text><text x="61" y="143" fill="#c4b5fd">  test</text><text x="107" y="143" fill="#e2e8f0">("assumptions");</text>
+    <text x="26" y="175" fill="#64748b">04</text><text x="61" y="175" fill="#c4b5fd">  improve</text><text x="130" y="175" fill="#e2e8f0">("results");</text>
+    <text x="26" y="207" fill="#64748b">05</text><text x="61" y="207" fill="#e2e8f0">};</text>
+  </g>
+  <rect x="26" y="222" width="8" height="2" fill="#5eead4"/>
+  <text x="44" y="228" fill="#718096" font-family="Consolas, Menlo, monospace" font-size="10">ready for the next iteration</text>
 </g>
-<g fill="#63e6d2">
-<circle cx="710" cy="112" r="5"/><circle cx="800" cy="157" r="5"/><circle cx="900" cy="96" r="4"/><circle cx="1000" cy="155" r="5"/><circle cx="1110" cy="105" r="4"/><circle cx="770" cy="260" r="5"/><circle cx="870" cy="312" r="5"/><circle cx="1030" cy="265" r="4"/>
-</g>
-<g fill="#b39bff"><circle cx="650" cy="220" r="4"/><circle cx="970" cy="365" r="4"/><circle cx="1130" cy="320" r="5"/><circle cx="1170" cy="205" r="3"/><circle cx="700" cy="340" r="3"/></g>
-<path d="M84 354H410" stroke="#d8e6ee" stroke-opacity=".18" stroke-width="1"/>
-<text x="84" y="383" fill="#7894a4" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">LEARN  ·  BUILD  ·  EXPERIMENT  ·  GROW</text>
+<path d="M656 92V309" stroke="#243640" stroke-width="1"/>
+<circle cx="656" cy="92" r="3" fill="#5eead4"/>
+<circle cx="656" cy="309" r="3" fill="#78a9ff"/>
 </svg>
