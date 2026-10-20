@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="assets/yarima-banner.svg" alt="Yarima Tamang — Computer Science, AI/ML and Software Engineering" width="100%" />
+<img src="image.png" alt="Yarima Tamang — AI/ML, deep learning and software engineering workspace" width="100%" />
 
 <br/><br/>
 
