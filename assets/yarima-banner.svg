@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Yarima Tamang — Computer Science and AI/ML</title>
+<desc id="desc">Dark navy abstract grid with teal and violet network nodes.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07131e"/><stop offset=".55" stop-color="#0b202b"/><stop offset="1" stop-color="#17132b"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#63e6d2" stop-opacity=".65"/><stop offset="1" stop-color="#a78bfa" stop-opacity=".3"/></linearGradient>
+  <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#9bbac8" stroke-opacity=".08" stroke-width="1"/></pattern>
+  <radialGradient id="glow"><stop offset="0" stop-color="#1f8b88" stop-opacity=".25"/><stop offset="1" stop-color="#1f8b88" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+<ellipse cx="980" cy="170" rx="350" ry="260" fill="url(#glow)"/>
+<g stroke="url(#line)" stroke-width="1.5" fill="none">
+<path d="M760 65L850 112L965 74L1060 128L1140 85M850 112L825 205L930 250L1060 128L1090 230L1180 270M965 74L930 250M760 65L700 165L825 205M930 250L1025 315L1090 230L1180 270M1060 128L1190 165"/>
+<path d="M735 285L825 205L930 250L1025 315"/>
+</g>
+<g fill="#63e6d2">
+<circle cx="760" cy="65" r="4"/><circle cx="850" cy="112" r="5"/><circle cx="965" cy="74" r="4"/><circle cx="1060" cy="128" r="5"/><circle cx="1140" cy="85" r="3"/><circle cx="825" cy="205" r="4"/><circle cx="930" cy="250" r="5"/><circle cx="1090" cy="230" r="4"/>
+</g>
+<g fill="#a78bfa"><circle cx="700" cy="165" r="4"/><circle cx="1025" cy="315" r="4"/><circle cx="1180" cy="270" r="4"/><circle cx="1190" cy="165" r="3"/></g>
+<rect x="52" y="48" width="5" height="258" rx="2.5" fill="#63e6d2"/>
+<text x="82" y="108" fill="#63e6d2" font-family="monospace" font-size="15" letter-spacing="4">COMPUTER SCIENCE / ENGINEERING</text>
+<text x="78" y="170" fill="#f0f6fc" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="54">YARIMA TAMANG</text>
+<text x="82" y="212" fill="#b8c9d5" font-family="Arial,Helvetica,sans-serif" font-size="22">AI / ML  ·  DEEP LEARNING  ·  SOFTWARE</text>
+<path d="M82 244H395" stroke="#63e6d2" stroke-width="2" stroke-linecap="round"/>
+<text x="82" y="278" fill="#8ea7b7" font-family="monospace" font-size="14">BUILD  •  EXPERIMENT  •  IMPROVE</text>
+</svg>
